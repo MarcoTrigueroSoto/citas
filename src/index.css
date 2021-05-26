@@ -54,6 +54,8 @@ input[type="time"] {
 
 .cita {
   padding: 2rem;
+  margin-top: 11%;
+  border-radius: 25px;
   background: white;
   border-bottom: 1px solid #e1e1e1;
   color: black;
